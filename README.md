@@ -20,4 +20,4 @@ This project consists of five files:
 
 
 ## How to Run The Code
-First, create_tables file is run such that it can drop all previous tables and create them again by executing the list of queries written in sql_queries. Afterthat, etl.py file is run such that the staging face is active which will activate the insertion face next. Hence, our dimentional tables will be created in the cloud.
+First, create_tables file is run such that it can drop all previous tables and create them again by executing the list of queries written in sql_queries. Afterthat, etl.py file is run such that the staging face is active which will next activate the insertion face next. Hence, our dimentional tables will be created in the cloud.
